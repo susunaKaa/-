@@ -67,9 +67,9 @@ bundle exec jekyll serve
 编辑 `_config.yml` 文件，修改以下配置：
 
 ```yaml
-title: 你的名字
-description: 你的个人简介
-author: 你的名字
+title: 石文芝
+description: 本科生
+author: swz
 email: your.email@example.com
 github_username: yourgithub
 ```
